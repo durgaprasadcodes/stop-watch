@@ -29,14 +29,17 @@ This project helps beginners understand **timers, intervals, and DOM manipulatio
 
 ---
 
+
+## 🖼️  Project Preview
+
+<img width="807" height="241" alt="Image" src="https://github.com/user-attachments/assets/284836ae-43e1-4d3f-8df5-f7a08b8091ea" />
+
+---
 ## 📁 Project Structure
 
+```text
 Stopwatch/
 │
 ├── index.html
 ├── style.css
 └── script.js
-
-## 🖼️  Project Preview
-
-<img width="807" height="241" alt="Image" src="https://github.com/user-attachments/assets/284836ae-43e1-4d3f-8df5-f7a08b8091ea" />
