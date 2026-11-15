@@ -6,7 +6,7 @@ This project helps beginners understand **timers, intervals, and DOM manipulatio
 ---
 
 ## 🌐 Live Demo
-👉 **[Click here to view live demo](https://durgaprasadcodes.github.io/Stop-Watch/)**
+👉 **[Click here to view live demo](https://durgaprasadcodes.github.io/stop-watch/)**
 
 ---
 
